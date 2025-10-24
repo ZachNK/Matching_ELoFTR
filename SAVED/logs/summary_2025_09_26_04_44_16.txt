@@ -1,0 +1,17 @@
+=== Summary ===
+device: cuda
+threshold: 0.2
+img1: /workspace/_datasets/shinsung_data/250912150549_400/250912150549_400_0003.jpg
+img2: /workspace/_datasets/shinsung_data/250912161658_200/250912161658_200_0003.jpg
+num_raw_matches: 1788
+num_ransac_matches: 519
+load_images_s: 0.025487393000730663
+load_proc_model_s: 0.929752443000325
+preprocess_s: 0.043120674999954645
+inference_s: 0.08982013000058942
+postprocess_s: 0.024195914000301855
+visualize_save_s: 9.948009474001083
+total_pipeline_s: 11.060386029002984
+match_png: /workspace/matchAnything_eloftr/SAVED/results/match_2025_09_26_04_44_16.png
+overlay_png: /workspace/matchAnything_eloftr/SAVED/overlay/overlay_2025_09_26_04_44_16.png
+json_log: /workspace/matchAnything_eloftr/SAVED/logs/match_2025_09_26_04_44_16.json
